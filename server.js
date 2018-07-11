@@ -8,9 +8,17 @@ app.use(bodyParser.urlencoded({
 app.use(bodyParser.json());
 
 const bcrypt = require('bcrypt');
-const parallel = require('run-parallel')
+const parallel = require('run-parallel');
 const session = require("express-session");
 
-// const LastFM = require("last-fm");
-// const lastfm = new LastFM('750edfe3fb22652664ad82d8e4e9cd8b', { userAgent: 'MyApp/1.0.0 (http://example.com)' })
+const color   = require('dominant-color'),
+    imgPath = './path/to/your/image.jpg'
 
+color(imgPath, function(err, color){
+  // hex color by default
+  console.log(color) // '5b6c6e'
+})
+
+color(imgPath, {format: 'rgb'}, function(err, color){
+  console.log(color) // ['91', '108', '110']
+})

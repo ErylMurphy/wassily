@@ -1,13 +1,16 @@
-import React, { Component } from 'react';
-import './App.css';
+import React, { Component } from "react";
+import ColorThief from "@mariotacke/color-thief";
+// import Run from "./Run"
 
-class App extends Component {
+class TopAlbums extends Component {
   constructor(props) {
     super(props);
     this.state = {
       query: '',
       artist: null,
       albums: [],
+      topalbums: null,
+      flag: false
     }
   }
 
@@ -21,7 +24,7 @@ class App extends Component {
       .then(json => {
         console.log(json);
         const topalbums = json.topalbums['topalbums'];
-        this.setState({ topalbums });
+        this.setState({ topalbums, flag : true });
         const albumURL = `https://ws.audioscrobbler.com/2.0/?method=artist.gettopalbums&artist=${this.state.query}&api_key=750edfe3fb22652664ad82d8e4e9cd8b&format=json`;
         console.log(albumURL);
         fetch(albumURL, {
@@ -35,16 +38,19 @@ class App extends Component {
           });
       });
   }
+  // colorT() {
+  //   let jqImage = $('.img');
+  //   console.log(jqImage);
+  // }
   render() {
+   
     return (
 
-      <div className="Body">
+      <div className="body">
 
         <div className="form">
-
           <input type="text" className="form" placeholder="Enter Any Artist to See Albums" required onChange={event => this.setState({ query: event.target.value })} onKeyPress={event => { if (event.key === 'Enter') this.search() }} />
         </div>
-
         <div className="artistname">
         </div>
         <div className="topalbums">
@@ -52,14 +58,16 @@ class App extends Component {
             {
               this.state.albums.map(function (album, index) {
                 return <li className='albums' key={index}>
-                  <a href={album.url}> <img className="img" src={album.image[2]['#text']} alt={album.name}/></a>
+                  <a href={album.url}> <img className="img" src={album.image[2]['#text']} /></a>
                 </li>;
               })}
           </ul>
+          {this.state.flag ? () => this.colorT() : null } 
+              
         </div>
       </div>
     )
   };
-};
+}
 
-export default App;
+export default TopAlbums;

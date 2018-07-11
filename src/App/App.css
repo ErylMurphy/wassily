@@ -7,3 +7,10 @@ li {
   display: inline-block;
   vertical-align: top;
 }
+
+.footer {
+  width: 100%;
+position: fixed;
+bottom: 0;
+margin-left: auto;
+}
