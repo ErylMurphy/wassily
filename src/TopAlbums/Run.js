@@ -3,12 +3,12 @@ import ColorThief from "@mariotacke/color-thief";
 
 class Run extends Component {
   runmethod() {
-    let imagethere = document.getElementsByClassName("img");
-    
-    console.log(imagethere);
-    let colorThief = new ColorThief();
-    let tryThief = colorThief.getColor(imagethere[0]);
-    console.log(tryThief);
+    let getImages = document.getElementsByClassName("img");
+  //  let getAttribute = this.getImages.getAttribute("src");
+    console.log(getImages);
+    // let colorThief = new ColorThief();
+    // let tryThief = colorThief.getColor(imagethere[0]);
+    // console.log(tryThief);
     
   }
   render() {

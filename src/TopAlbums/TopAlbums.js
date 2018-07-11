@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import ColorThief from "@mariotacke/color-thief";
-// import Run from "./Run"
+import Run from "./Run"
 
 class TopAlbums extends Component {
   constructor(props) {
@@ -38,10 +38,6 @@ class TopAlbums extends Component {
           });
       });
   }
-  // colorT() {
-  //   let jqImage = $('.img');
-  //   console.log(jqImage);
-  // }
   render() {
    
     return (
@@ -62,7 +58,7 @@ class TopAlbums extends Component {
                 </li>;
               })}
           </ul>
-          {this.state.flag ? () => this.colorT() : null } 
+          {this.state.flag ? <Run /> : null }
               
         </div>
       </div>
