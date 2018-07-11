@@ -4,6 +4,7 @@ import ColorThief from "@mariotacke/color-thief";
 class Run extends Component {
   runmethod() {
     let getImages = document.getElementsByClassName("img");
+    
   //  let getAttribute = this.getImages.getAttribute("src");
     console.log(getImages);
     // let colorThief = new ColorThief();
