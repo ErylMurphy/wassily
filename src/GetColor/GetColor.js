@@ -3,7 +3,7 @@ import Palette from "react-palette";
 
 
 
-class SameColor extends Component {
+class GetColor extends Component {
 
   render() {
     const getColor = this.props.getColor
@@ -21,4 +21,4 @@ class SameColor extends Component {
   }
 }
 
-export default SameColor;
+export default GetColor;
