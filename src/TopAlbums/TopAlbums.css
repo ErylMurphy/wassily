@@ -1,0 +1,6 @@
+/* img {
+  filter: blur(1px);
+} */
+img:hover {
+  filter: blur(5px);
+}

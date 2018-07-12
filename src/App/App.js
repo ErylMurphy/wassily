@@ -3,12 +3,14 @@ import './App.css';
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer.js'
 import TopAlbums from '../TopAlbums/TopAlbums';
+import SameColor from '../SameColor/SameColor';
 
 class App extends Component {
 render() {
   return (
   <div>
   <Header />
+  <SameColor />
   <TopAlbums />
   <Footer />
   </div>

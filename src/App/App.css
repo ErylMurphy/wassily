@@ -14,3 +14,7 @@ position: fixed;
 bottom: 0;
 margin-left: auto;
 }
+
+img :hover {
+  filter: blur(4px);
+}
