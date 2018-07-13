@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import './TopAlbums.css';
 // import GetColor from '../GetColor/GetColor';
-// import PasteImage from '../PasteImage/PasteImage';
+import PasteImage from '../PasteImage/PasteImage';
 import Palette from "react-palette";
 
 class TopAlbums extends Component {
@@ -11,27 +11,37 @@ class TopAlbums extends Component {
       query: '',
       albums: [],
       flag: false,
-      albumImage: ''
+      albumImage: '',
+      showComponent: false,
+      isHidden: true
     }
     this.search = this.search.bind(this);
     this.handleClick = this.handleClick.bind(this);
+    this._onButtonClick = this._onButtonClick.bind(this);
   }
-
   handleClick(evt, index, albumImage) {
     const baseURL = `https://ws.audioscrobbler.com/2.0/?method=artist.gettopalbums&artist=${this.state.query}&api_key=750edfe3fb22652664ad82d8e4e9cd8b&format=json`;
     fetch(baseURL, {
       method: 'GET'
     }).then(response => response.json())
-      .then(json => {
-        // const albumImage = json.image[2]['#text'];
-        this.setState({
-          index: index,
-          albumImage: albumImage,
-        });
-        console.log(this.state.albumImage);
-      })
+    .then(json => {
+      this.setState({
+        index: index,
+        albumImage: albumImage,
+      });
+      console.log(this.state.albumImage);
+    })
   };
-
+  toggleHidden() {
+    this.setState({
+      isHidden: !this.state.isHidden
+    })
+  }
+  _onButtonClick() {
+    this.setState({
+      showComponent: true,
+    })
+  }
   search() {
     const baseURL = `https://ws.audioscrobbler.com/2.0/?method=artist.gettopalbums&artist=${this.state.query}&api_key=750edfe3fb22652664ad82d8e4e9cd8b&format=json`;
     fetch(baseURL, {
@@ -56,9 +66,10 @@ class TopAlbums extends Component {
             <div>
               <Palette image={this.state.albumImage}>
                 {palette => (
-                  <div style={{ color: palette.lightVibrant }}>
-                    <h1>See all albums for {this.state.query}</h1>
-                  </div>
+                  <div style={{ color: palette.vibrant }}>
+                    <button onClick={this.toggleHidden.bind(this)}>See all albums for {this.state.query}</button>
+                    {!this.state.isHidden && <PasteImage />}
+                  </div> 
                 )}
               </Palette>
             </div>
