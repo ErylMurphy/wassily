@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import TopAlbums from '../TopAlbums/TopAlbums';
 import Palette from "react-palette";
 
 class ShowAlbum extends Component {
@@ -9,25 +8,38 @@ class ShowAlbum extends Component {
       matchAlbums: [],
       albumImage : null,
     }
+    this.getTheStyle = this.getTheStyle.bind(this);
   }
   
+  getTheStyle() {
+  const coloredButton = document.getElementById('coloredhead');
+  console.log(coloredButton);
+  const style = window.getComputedStyle(coloredButton, null).getPropertyValue("color");
+  document.getElementById('output').innerHTML = style;
+  let rgb = style;
+  rgb = rgb.replace(/[^\d,]/g, '').split(',');
+  const rgbObject = {
+    r: parseInt(rgb[0]),
+    g: parseInt(rgb[1]),
+    b: parseInt(rgb[2]),
+    
+  }
+  console.log(rgbObject)
+}
+
+
+
+
   render() {
-    function getTheStyle(){
-    const coloredHead = document.getElementsByClassName('.coloredhead');
-    const style = window.getComputedStyle(coloredHead, null).getPropertyValue("color");
-    document.getElementsByClassName('.output').innerHTML = style;
-    }
-    console.log(this.props)
     return (
       <div className="show-album">
         <div>
           <Palette image={this.props.albumImage}>
             {palette => (
               <div style={{ color: palette.vibrant }}>
-                <h1 className="coloredhead">Vibrant Color</h1>
-                <div className="output">Hello</div>
-                <img src={this.props.albumImage}/>
-                {/* {console.log(style)} */}
+                <button style={{backgroundColor : palette.vibrant}} id="output" onClick={this.getTheStyle}>Hello</button>
+             
+                <img id="coloredhead" src={this.props.albumImage}/>
               </div>
             )}
           </Palette>
