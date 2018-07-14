@@ -1,5 +1,3 @@
-'use strict'
-
 const colors = [
   {colorName: 'aliceblue', r: 240, g: 248, b: 255},
   {colorName: 'antiquewhite', r: 250, g: 235, b: 215},
@@ -156,7 +154,7 @@ const compcolor = { r: 239, g: 9, b: 110};
 let allDiffs = [];
 function getClosest(compcolor, colors) {
   for (let i = 0; i < colors.length; i++) {
-   actualColorValDiff = Math.abs(compcolor.r - colors[i].r) + Math.abs(compcolor.g - colors[i].g) + Math.abs(compcolor.b - colors[i].b)
+   console.log(actualColorValDiff = Math.abs(compcolor.r - colors[i].r) + Math.abs(compcolor.g - colors[i].g) + Math.abs(compcolor.b - colors[i].b))
    allDiffs.push(actualColorValDiff);
   }
   let closestColor = Math.min(...allDiffs);

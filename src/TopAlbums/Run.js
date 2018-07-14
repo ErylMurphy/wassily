@@ -14,8 +14,9 @@ class Run extends Component {
       {this.runmethod()}
       </div>
     )
-
+    
   }
 }
 
 export default Run;
+
