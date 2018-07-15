@@ -3,6 +3,7 @@ import './App.css';
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer.js'
 import TopAlbums from '../TopAlbums/TopAlbums';
+// import Home from '../Home/Home';
 // import ShowAlbum from '../ShowAlbum/ShowAlbum';
 // import GetColor from '../GetColor/GetColor';
 
@@ -12,6 +13,7 @@ render() {
   return (
   <div>
   <Header />
+  {/* <Home /> */}
   <TopAlbums />
   <Footer />
   </div>

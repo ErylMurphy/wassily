@@ -1,8 +1,5 @@
 import React, { Component } from "react";
 import './TopAlbums.css';
-// import GetColor from '../GetColor/GetColor';
-
-import Palette from "react-palette";
 import ShowAlbum from '../ShowAlbum/ShowAlbum';
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
@@ -60,12 +57,11 @@ class TopAlbums extends Component {
     return (
       <div className="body">
         <div className="form">
+        
           <input type="text" className="form" placeholder="Enter Any Artist to See Albums" required onChange={event => this.setState({ query: event.target.value })} onKeyPress={event => { if (event.key === 'Enter') this.search() }} />
+        </div>
           <div className="topalbums">
             <div>
-  <div>
-                    <h1>See all albums for {this.state.query}</h1>
-                  </div>
             </div>
             <div>{TopAlbums && <ShowAlbum albumImage={this.state.albumImage} />}</div>
             <ul onClick={this.toggleHidden.bind(this)}>
@@ -83,7 +79,7 @@ class TopAlbums extends Component {
                     </li>)
                 }.bind(this))}
             </ul>{!this.state.isHidden}
-          </div>
+          
         </div>
       </div>
     )

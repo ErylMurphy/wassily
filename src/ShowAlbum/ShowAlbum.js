@@ -15,8 +15,9 @@ class ShowAlbum extends Component {
   getTheStyle() {
   const coloredButton = document.getElementById('coloredhead');
   const style = window.getComputedStyle(coloredButton, null).getPropertyValue("color");
-  document.getElementById('output').innerHTML = style;
+  document.getElementById('output')
   let rgb = style;
+  console.log(style)
   rgb = rgb.replace(/[^\d,]/g, '').split(',');
   const compcolor = {
     r: parseInt(rgb[0]),
@@ -25,9 +26,6 @@ class ShowAlbum extends Component {
   }
 getClosest(compcolor, colors);
 }
-
-
-
   render() {
     return (
       <div className="show-album">
@@ -35,7 +33,7 @@ getClosest(compcolor, colors);
           <Palette image={this.props.albumImage}>
             {palette => (
               <div style={{ color: palette.vibrant }}>
-                <button style={{backgroundColor : palette.vibrant}} id="output" onClick={this.getTheStyle}>Hello</button>
+                <button style={{backgroundColor : palette.vibrant}} id="output" onClick={this.getTheStyle}>See Similar Albums</button>
              
                 <img id="coloredhead" src={this.props.albumImage}/>
               </div>

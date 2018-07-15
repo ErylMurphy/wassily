@@ -1,3 +1,17 @@
+
+.footer {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  margin-left: auto;
+}
+
+/*Top Albums*/
+
+img :hover {
+  filter: blur(4px);
+}
+
 ul {
   margin: 0 auto;
   text-align: center;
@@ -8,13 +22,9 @@ li {
   vertical-align: top;
 }
 
-.footer {
-  width: 100%;
-position: fixed;
-bottom: 0;
-margin-left: auto;
-}
-
-img :hover {
-  filter: blur(4px);
+input {
+  border: 0;
+  border-bottom: 1px solid black;
+  padding: 10px;
+  width: 50vw;
 }
