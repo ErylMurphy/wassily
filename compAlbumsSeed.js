@@ -662,3 +662,755 @@ TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/5ee234f0ab9346519887
 color - names.js: 164 peru
 TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/aca1b5ace0b047cbc7fdcfa4e4c00a9f.png
 color - names.js: 164 steelblue
+
+https://lastfm-img2.akamaized.net/i/u/174s/7d8eeb8f69e84736ab2cd659c03a1581.png
+color - names.js: 164 mediumseagreen
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/0a6777884b414ff1866efca0498f89fb.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/393337234a3fcdf458662b579e72f460.png
+color - names.js: 164 darkgray
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/764173a32f3247adc795b45fc8be40f7.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/659bb3530fb5e71d4f0b7b78dfffa2f1.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/8946375daa364644c638c3b484aacb9e.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/6a836c6afaad4dd19849f980272febc4.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/fcbfa24117974cbeccb63ffce723e7c4.png
+color - names.js: 164 rosybrown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/c20dd3bf3242494683ada063fb86eb6f.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/0a0a742713264fefb3a38a5fa46c9eca.png
+color - names.js: 164 brown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/2b652e6fadeb46df9c60b1fbc9cecb59.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/9497107e512845f7c5a8491588263149.png
+color - names.js: 164 lightseagreen
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/a7f76fcb56c94a51ca3eefed472e88b4.png
+color - names.js: 164 lightseagreen
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/2b992ddfdae34296c24ea79da2ff679f.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/6087ac1aa4f342d8a8451f123a2264ea.png
+color - names.js: 164 goldenrod
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/7ddc0bc84175413c9d2fb58fed4f8b18.png
+color - names.js: 164 chocolate
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/1d5c7cc28d5243038430c046847f6ece.png
+color - names.js: 164 darkorange
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/f8af3ce8e04143689108598c3f96ba8f.png
+color - names.js: 164 darkkhaki
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/0c9113845729472cc70a128d4f900c15.png
+color - names.js: 164 yellow
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/8c79b05467c7445980a6b2e1e5ce07a1.png
+color - names.js: 164 red
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/b68045da645548c783381464ba5cc8ce.png
+color - names.js: 164 orange
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/eb770a0a82514f3a842bc85e3f49de4f.png
+color - names.js: 164 orangered
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/695566b4c78b484fa77cdce54777b22d.png
+color - names.js: 164 gold
+
+https://lastfm-img2.akamaized.net/i/u/174s/d26cc0092f9b4cdf99d1e582755ec824.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/c81047473e4f430bbc569ed214e76d51.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/a09e116308c356c2281659caa565cb35.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/3f3a27dbcf434984baec191f277f9b93.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/30b66d825c2d04412d2db65e435b3ffe.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/335b21f6496e4b3ccb041b60e71a4962.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/93f15ee6eb144455c40c925c9d382a41.png
+color - names.js: 164 lightseagreen
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/92c0713f226fc68bf07330f5b780fe25.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/8b6190e87d43a0f6a201acb1a91a7e75.png
+color - names.js: 164 indianred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/413f10901ad74a6394071fec36e38695.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/8fedde0c06bb45bb875d3b0e4317d0d8.png
+color - names.js: 164 gold
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/1d219f575c4e4aeaca953649a3710074.png
+color - names.js: 164 brown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/4941aeedce764ccaafc704acf1289063.png
+color - names.js: 164 lightseagreen
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/ea28ec6de46e4bbea87fadf3f28056fd.png
+color - names.js: 164 darkcyan
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/2e681fb6280e56821eab759e4c69bf5b.png
+color - names.js: 164 darkcyan
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/828e10a974d849e9c9e9ff3f0e2b92c1.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/2dade6373acc4b86bf8f8dba3f830d55.png
+color - names.js: 164 dodgerblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/7257a8315e1f73d9feef561cdb814a32.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/84dcad35636698ad15d9bac152776d14.png
+color - names.js: 164 goldenrod
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/7830627d4e434ab3912f6c58cca47b73.png
+color - names.js: 164 yellow
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/7fa5ef3b2d4402b646b1d79d9f61bbfd.png
+color - names.js: 164 darksalmon
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/07082349a6ff65dc86f8a7e8f14b2281.png
+color - names.js: 164 red
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/b89945ac081fbe95170a8f6da3582530.png
+color - names.js: 164 orangered
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/73f95ed527924fb78e4be0d10ac3cd02.png
+color - names.js: 164 indianred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/aa5bacfe2539471ca253804cf64825c9.png
+color - names.js: 164 royalblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/11998446ceba4645c64adbf56122e000.png
+color - names.js: 164 chocolate
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/1499e0ab14dc4894adec8e115caa4cc7.png
+color - names.js: 164 chocolate
+
+https://lastfm-img2.akamaized.net/i/u/174s/dfe46676a40e422ca457b91d24bcabdb.png
+color - names.js: 164 gold
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/96392ff6a08a47a7c7ffd1b6906bc9cd.png
+color - names.js: 164 sienna
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/000247cd186b44a0ab6abf0f4d429744.png
+color - names.js: 164 cornflowerblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/5009191624d8488a9fd8e9f9240ea884.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/51709580b4f14898c8896b5049b168d1.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/6800b1ce8e65cb1d9c8900c3645d2a4d.png
+color - names.js: 164 palevioletred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/2bd4aaeec559435caf739de8c65d0be4.png
+color - names.js: 164 goldenrod
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/2bf6c77bd49e41dbc103176c7537bbfe.png
+color - names.js: 164 orangered
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/9dea80a8376f489dba739d0c9b98f5f5.png
+color - names.js: 164 gold
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/92942f12d4ef54cad22492afb231b7f6.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/f720d741e748b08b6b370c78738d6e9c.png
+color - names.js: 164 royalblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/f0dcb6f761b14f7acf2490ab61ce3f07.png
+color - names.js: 164 darkcyan
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/744f15db0b0499fbdf21250b35458e02.png
+color - names.js: 164 gold
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/3c7c39f1dcdc011cffe81542abf644e8.png
+color - names.js: 164 goldenrod
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/e259dd0266b64a5f9cfc5f34c8575eca.png
+color - names.js: 164 indianred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/e699f5584a1125a506b5f2accae7e5aa.png
+color - names.js: 164 rosybrown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/9e1005a5fcf1479ec7691d8543a8fea6.png
+color - names.js: 164 darkorange
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/92e15c3031e541c695dd7dda3dd277c1.png
+color - names.js: 164 indianred
+
+https://lastfm-img2.akamaized.net/i/u/174s/08d7f2ac644a4f66cf6b75d1a3e5d4a1.png
+color - names.js: 164 indianred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/5d045222127547bc87b8ece10fd92f7c.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/fe138f9d75ec4191c1d88ee5135a63b3.png
+color - names.js: 164 tomato
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/44b2f04a947b6cb169b3e3bb8222ad01.png
+color - names.js: 164 coral
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/3ee5664d7f40e8ee89758c5c455abcb1.png
+color - names.js: 164 blue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/177cec821f2145059b0fdb79f18efae9.png
+color - names.js: 164 darksalmon
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/fe0399215b8d401cb68f97b31db10136.png
+color - names.js: 164 royalblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/e60988558eec60fe4a3020d23863d58d.png
+color - names.js: 164 darkorange
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/55b11a7d4833916134020b72801766ab.png
+color - names.js: 164 mediumvioletred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/87dedbbbd2d64a13cab2aab9821faccd.png
+color - names.js: 164 indianred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/687a4294cd244c6d8388e3b9f5d4e9fb.png
+color - names.js: 164 goldenrod
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/977afb2c47f346018c155ff3942b5e84.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/11876495ae8d49cbb35e286686d1c713.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/83213c9daa56450ec5f1d1b1006ce0e1.png
+color - names.js: 164 sienna
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/e90782df17df44e2980760f0e4d934f3.png
+color - names.js: 164 burlywood
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/b9b5f8447d9d48badb4cbe4ddb35e232.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/3de2380eb38e4cb7bf32b797852c41a7.png
+color - names.js: 164 red
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/cf4ad25369ae995570058d86bd557c38.png
+color - names.js: 164 cornflowerblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/2452528c7eb366851939a62d1d5c5661.png
+color - names.js: 164 tomato
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/7e630124918c8971b00fe7544f01d85e.png
+color - names.js: 164 goldenrod
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/d608b8f515128a97ff51e79dba75ea7c.png
+color - names.js: 164 mediumvioletred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/053e1e2f458b6de9ea45455c2b8b53f3.png
+color - names.js: 164 royalblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/79acbe2092d5cf981c7af3930b568acc.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/f3742d090bff4482c4f28fbf9fe88079.png
+color - names.js: 164 sienna
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/aa1793b6bb92420d91c6cb9f2ea12199.png
+color - names.js: 164 sienna
+
+https://lastfm-img2.akamaized.net/i/u/174s/76f4f1809a504f49cf50c4b8e8627cf9.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/55aa6abddb3d4d03a2fc87a3d79a2812.png
+color - names.js: 164 darkslateblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/cacd10a3c29f4d2bab40f31c20e6cbe0.png
+color - names.js: 164 brown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/ebb85bff0ed64e6cce96c900fcc61b12.png
+color - names.js: 164 darkcyan
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/a0afc51a30ea4bd28ad49611eeda2f4b.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/a76fa30c6dc9ad1a07c3f88f30e4d5ef.png
+color - names.js: 164 orangered
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/b4d756e0ecf7475bc7f853206632f4f7.png
+color - names.js: 164 steelblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/79b38de7ea314232b73a480de907dcb4.png
+color - names.js: 164 gold
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/9c27f597b08a4779c7198fbde640b550.png
+color - names.js: 164 yellowgreen
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/344e52c29a484d2ccd9866179fb28cb6.png
+color - names.js: 164 steelblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/7011d2b07b544dcbbf87f546db2eb042.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/174adf989b1a49eb9e293f5447257e18.png
+color - names.js: 164 goldenrod
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/e4652da62df44e659caa82e5a2cc53bf.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/13f137690d734b71cbccdf5003fa0c14.png
+color - names.js: 164 goldenrod
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/47fbcfb5c9e84a0fb59854dfd55439e6.png
+color - names.js: 164 rebeccapurple
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/00a3c88f2d9548f79967d6ceed39e551.png
+color - names.js: 164 goldenrod
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/53442bc27a314142a02d2df018b4161e.png
+color - names.js: 164 salmon
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/54887f4b1cf936f2205bdf06693c1780.png
+color - names.js: 164 chocolate
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/f4bfc25b0e22404ac0109b7964414c70.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/04e6677b697b4c1b810a15f0562a723e.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/801e9320ef8d416ec178eea1c8d3af98.png
+color - names.js: 164 steelblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/c2f526ccd76842b091d0163fb0f81386.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/503c5d0e7e96708e9c99f17e797bf65f.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/00e657b07b12b4b6c673fadf7318c8e2.png
+color - names.js: 164 steelblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/dc6c002a4d0a4ba78aa90820de6f82ae.png
+color - names.js: 164 skyblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/a33c4a6f8d3b4571a820d7e9d47d915a.png
+color - names.js: 164 sandybrown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/929183cdae224147ac8d64fdbf4c6839.png
+color - names.js: 164 indianred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/7c516873d8ba4ed8a2a8671aa071b1c6.png
+color - names.js: 164 cornflowerblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/9068d7aa959f4d0a93200afeb34aaa58.png
+color - names.js: 164 sienna
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/e0018b74d7af478e8af76c464fe9bd92.png
+color - names.js: 164 chocolate
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/3349dfbeace74e29b145a2e2cf3bbf71.png
+color - names.js: 164 greenyellow
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/1247c154981348a0a79a45161108d062.png
+color - names.js: 164 darkorange
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/d0a01a45e2c5d4f4a51414b87af6a730.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/da3687c17718278341e5d5f28a7aac74.png
+color - names.js: 164 sienna
+
+https://lastfm-img2.akamaized.net/i/u/174s/18903dcf96e44464abd384d66543dee2.png
+color - names.js: 164 chocolate
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/647ce9d351d24b7881254d0eaaedd1b5.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/d9ba08e4ae9e4e9a9462d3ddc3d49b30.png
+color - names.js: 164 orangered
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/0a90548db08d47afc792e90dd84562ce.png
+color - names.js: 164 indianred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/9da9b0cfce7f9b3ab3ed7eff55536e69.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/81ac45ecc23c4cf6aaf033eb54f7c09d.png
+color - names.js: 164 gold
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/4c994e7098f34bdfcb58d04aaba808c8.png
+color - names.js: 164 sandybrown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/1e0a42d3cb344c858067347b39f17045.png
+color - names.js: 164 chocolate
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/615ea4179f944051c054773300cac071.png
+color - names.js: 164 goldenrod
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/91670f2f2ffd4ce0ac40f77b17c351a6.png
+color - names.js: 164 goldenrod
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/88041f3ab3234ced9da3ca7190127c2c.png
+color - names.js: 164 burlywood
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/74e737d59257452c882ba1f1cad6d0ff.png
+color - names.js: 164 gold
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/d3a8b1e9240a4a3f8a567806b3b04206.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/aeaf7171ae954156b6fcb2467b806491.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/46cc873cd0164ccd982467665a0f382e.png
+color - names.js: 164 palevioletred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/af84d5e0d34743e9966172e2fb72a8c8.png
+color - names.js: 164 salmon
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/81daa0d5051f4697b833465db28628a1.png
+color - names.js: 164 chocolate
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/ba54d677db304a0d969c8f12975775a5.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/e89712ce64e748e2960135803cea6160.png
+color - names.js: 164 orangered
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/7d79c517b44e43e2b14b7e808c863577.png
+color - names.js: 164 darkred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/f3096a605d9d4445921067c43ec46ef4.png
+color - names.js: 164 gold
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/2253901fbb8391cc8e09e7008c19bee0.png
+color - names.js: 164 sienna
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/6e5a3ed309f343918336817940a11fe6.png
+color - names.js: 164 sienna
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/631845997640490ebf41f6edf8c3558d.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/2793420057304356a95620cb1ec4eaef.png
+color - names.js: 164 darkslateblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/38d93061eda382b73d447367501bb2e0.png
+color - names.js: 164 darkturquoise
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/baf331ff5d8fe9d93e01b13a591cb919.png
+color - names.js: 164 mediumvioletred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/8275a60861244a979af4662892c419e5.png
+color - names.js: 164 indianred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/350ba585db9946829216cb0718957e23.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/5f4b2bc243a949a1b6707fc3c31bcf6c.png
+color - names.js: 164 chocolate
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/7a0af4bf09044557ac7bbb916eee1fc0.png
+color - names.js: 164 darkkhaki
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/1bf9702301524a439444cc0f64d7acf5.png
+color - names.js: 164 deeppink
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/c9f785fb78a942c2a46066ead1045881.png
+color - names.js: 164 cadetblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/313224cb82c754b66a60269fab51fada.png
+color - names.js: 164 indianred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/384afb98ff04499c9b3abaa760b44da4.png
+color - names.js: 164 chocolate
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/415acc90e5364817c80c7eb2c84c22f8.png
+color - names.js: 164 yellow
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/7691d60eb3f040c0a6d7762bafa2d797.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/d753f46b497d48da90602331d01882b0.png
+color - names.js: 164 chocolate
+
+https://lastfm-img2.akamaized.net/i/u/174s/7310b074ca3443f0c3ec7a68629e9a8b.png
+color - names.js: 164 steelblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/ef1aa597670c9900a678c08205d5e986.png
+color - names.js: 164 sandybrown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/cb32bc3f55024f96aeec8b52b1ad29c0.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/9d126bc065ff4660c67a9fb73c02a4b5.png
+color - names.js: 164 indianred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/c4afaec7574a4ad3a07cd751d6695126.png
+color - names.js: 164 steelblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/2af2a280a09e4baacb96d8aaaf4b41f4.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/fb27b5245fb7444ac4fd8cad6f0374e4.png
+color - names.js: 164 darkturquoise
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/ddcb7726ed284c2089bc9d5eb9013e8c.png
+color - names.js: 164 brown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/8aaf5ced0b914a48982251f9063be85f.png
+color - names.js: 164 orangered
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/4977ed429be947158c1c919b62b70aa0.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/c6f15584671c4a46a67d2b5deed333b8.png
+color - names.js: 164 indianred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/d54ec92651facd52aaeb6f264ac5ace3.png
+color - names.js: 164 chocolate
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/e2bc8d3d2671444e9602956d04cad789.png
+color - names.js: 164 tomato
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/f9f6f2681ad641f38b36379c52e67a0e.png
+color - names.js: 164 tomato
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/1ed2a8b06875441f85256b2f162fdf9b.png
+color - names.js: 164 red
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/6ec4376014054209c223ef2ff46720e5.png
+color - names.js: 164 goldenrod
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/1d5d96ab79464c74b6f03f2bc8290e9c.png
+color - names.js: 164 olivedrab
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/878ba27ea68356a2a052169def059a9b.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/9e317f7e4d6988327d1135eb2c98167f.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/c74a78cabd0f4d93bbe92d074fe8122f.png
+color - names.js: 164 darkseagreen
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/9209ec34e3db43fba2f364b32b7b9853.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/ed813dd7ee5e40b0baf51cae2a8f2c1d.png
+color - names.js: 164 indianred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/f14b07aa16be4462b63da652b53a7803.png
+color - names.js: 164 darkorange
+
+https://lastfm-img2.akamaized.net/i/u/174s/8e02168f4f4445cdc5ef49212994b9de.png
+color - names.js: 164 yellow
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/09d3411f62ae4344c320958f04decd36.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/87a06f4558554d02937440d4e90be3d4.png
+color - names.js: 164 yellow
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/4a26fcba6eeb8f1c6074170ae6a4af13.png
+color - names.js: 164 brown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/9d046387afb949d0a8b5e8fe7c9a65e1.png
+color - names.js: 164 darkkhaki
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/5657afdbcfac40c1b587159ab6d4f8c4.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/96ef65111feb45b1bdefbf4bb1b43085.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/b9ebc90a8487a3ae88e31746ef786fbe.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/16db92c3d1a64ab98e9b4e52ede65912.png
+color - names.js: 164 chocolate
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/c6b4122bb1dd46eea23e64e7317ee2bf.png
+color - names.js: 164 brown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/78834abd9e094865861dc2b341b1f7f7.png
+color - names.js: 164 red
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/f375d94fb4b17b993f0b1200c0b1c64b.png
+color - names.js: 164 goldenrod
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/35d122af8ab14608a791e3954a8263aa.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/29f72d0333df4193981b5ff16dd37df6.png
+color - names.js: 164 cornflowerblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/aa87906c0f1670afd08b1c69cea813f8.png
+color - names.js: 164 orangered
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/73af99a124e846f69d9b6bf72231c4f6.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/eb0a4570cfed46a5c659aca795469106.png
+color - names.js: 164 burlywood
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/60884860eb6648fdb3cfc3559d244736.png
+color - names.js: 164 steelblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/f3e8228a4e284e02b61dbf832dbc8cdb.png
+color - names.js: 164 gold
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/0d6b7482b12c4f7786ce17eb7b3cf589.png
+color - names.js: 164 goldenrod
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/f81df11462764ff19e4656911d5fba77.png
+color - names.js: 164 gold
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/1a1de088d31f4bd9bb0e06655cac2022.png
+color - names.js: 164 royalblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/40ed0ab59cd84e46ceb2f10a56e3ab53.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/18e20638faf14097a6f6d630ddcbb2b1.png
+color - names.js: 164 darkkhaki
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/c69e13b9f19c4ab8988ab51736309aa9.png
+color - names.js: 164 yellow
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/bdd3d12695b4f7f67619fcc5236e5b3b.png
+color - names.js: 164 indianred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/e1ee4a6e9e1e40c28ed510e0272b8ceb.png
+color - names.js: 164 deeppink
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/62d26c6cb4ac4bdccb8f3a2a0fd55421.png
+color - names.js: 164 steelblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/8d91b7dd13084606b99d756175917f7d.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/9421beaa754748d1b09236f57e3532c6.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/f78e87f3ecef4a4b81ec7285ae9882c0.png
+color - names.js: 164 gold
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/248cb85037351002251836e5f2f0d76b.png
+color - names.js: 164 lightseagreen
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/d85c9d5f92f648a4b10cecf353149fe9.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/f47f0408a925403cbea2564add58000f.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/bf691b35cb72c43a2dd80a86b48eab39.png
+color - names.js: 164 black
+
+https://lastfm-img2.akamaized.net/i/u/174s/000cca92b737499c92deaaf471107354.png
+color - names.js: 164 steelblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/374dce6ff3e06c7ee843a33c81bda982.png
+color - names.js: 164 sienna
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/1f88d893b9b74c4fadd9e7c1f5ee308a.png
+color - names.js: 164 sienna
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/535359c59f45494dc91be0847671a1b8.png
+color - names.js: 164 chocolate
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/2cda371e6c76499cc98f4c323fcb9aa0.png
+color - names.js: 164 sandybrown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/5cb465430c8141b9982944bd9e916e2b.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/321ff2ffad4e402dc034dabf604165d2.png
+color - names.js: 164 orangered
+
+https://lastfm-img2.akamaized.net/i/u/174s/3c51c3be81cd40e3b4b6aac8986ef778.png
+color - names.js: 164 yellow
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/7fea59f6809e4447b75473f34598f25f.png
+color - names.js: 164 darkslateblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/f82e16247f73436c97f3fd6e6691d382.png
+color - names.js: 164 steelblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/8381e54db1d4b669bb6baedc68180503.png
+color - names.js: 164 indianred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/6428faffbd3a595eed2fabd78b34d6a3.png
+color - names.js: 164 darkslategray
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/4bb54c42df844cfdba495fee81b587e8.png
+color - names.js: 164 goldenrod
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/21787e14c7264865b60eb5e642d17983.png
+color - names.js: 164 mediumaquamarine
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/019d6208698e4bf6cb1b089b8dfb4c89.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/4df42df3c6d2457dc580b3b81d31e08b.png
+color - names.js: 164 mediumspringgreen
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/8eddaaf449464ce1adb08b01e4f376ee.png
+color - names.js: 164 rosybrown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/dc0afbb17fcd4f96cfca1ad31fcb55a3.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/8792784aab5c4aeab78ad8525c1c2440.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/562fee7066a04a3cca0adb8f71f3775d.png
+color - names.js: 164 mediumturquoise
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/91e3ad99aa5147b4c78ab111272f9ebc.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/5de74b8967324851a3ab8f61625fc5a0.png
+color - names.js: 164 cornflowerblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/97cc399ad41f49da96ba95a7254a1a11.png
+color - names.js: 164 orangered
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/9f7fe80fd1b847828d67a90c0a8d8141.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/ec56323a9d6d4a9d98417e1a689cc0cb.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/6ba548dc4c3ac7aafe2164bb5ed0e25c.png
+color - names.js: 164 darkkhaki
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/1ef91256551a4e4d86f6d1bdaa44ffba.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/d1ba0436b1d547f086a74c8da277a0d4.png
+color - names.js: 164 indianred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/99d0bf03cf4746218d2884cab543c1f8.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/59702f3831874f8acf7a8ba984519e0a.png
+color - names.js: 164 steelblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/bf3ddff418a64a7888c7f628e314e3b7.png
+color - names.js: 164 coral
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/894565004a3d46129948191482ca2d9d.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/0e965de2cd554beecbcd711de769605f.png
+color - names.js: 164 chocolate
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/b9903d33f7684a7ccae19b0f752117cc.png
+color - names.js: 164 dodgerblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/47743ba0f20e4b66831561541dcf0194.png
+color - names.js: 164 gold
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/99a8382a6c0e488da0a870643629296c.png
+color - names.js: 164 darkslateblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/78663c29c44824bc58bc345ae965996a.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/6c4ee6a22457448f82af23ef5134cfa6.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/284d19332758683a77ebc6091d871967.png
+color - names.js: 164 gold
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/4da75458a6694d8ecd629cdf4e742a62.png
+color - names.js: 164 lightseagreen
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/79ae1e9379864c4d88eea06b8cb2f155.png
+color - names.js: 164 cadetblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/8ae2612151ab4358c34a622818475636.png
+color - names.js: 164 gold
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/bab87ae10d033e0f6514823acca382f8.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/1fce9d48620044eaa57c02070acef868.png
+color - names.js: 164 chocolate
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/f3c44c24e435c38f8bc07ddc5bc3dc81.png
+color - names.js: 164 brown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/f678795803d94548c5a3563e0d381f42.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/49eb47242e304e6ea0528559082ea355.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/b3915413887b414584c6521b875ac1bd.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/90958c834688463a82bb161b1abb405c.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/381da8e007594c4ccca55d327bfa6b78.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/8988045e527648c08bebe4432467514f.png
+color - names.js: 164 darkkhaki
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/978d1c68c29f4787c7a8e2998f51c266.png
+color - names.js: 164 darkred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/645ef9545c4ac26bc61563ca7a2c0bf3.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/dc1851c6145f4472a5d13dce045b9f71.png
+color - names.js: 164 royalblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/8e0c41249f1d437e8dc20b2ff9043262.png
+color - names.js: 164 chocolate
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/b6606579390247959e2a6dcd3463179c.png
+color - names.js: 164 gold
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/3d5fe77ecd5b4863a61cf63cc16392d2.png
+color - names.js: 164 tomato
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/2fe8babc4dc8431095181341c80fd263.png
+color - names.js: 164 goldenrod
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/658e3b9905c545d58b7b91a37af65928.png
+color - names.js: 164 khaki
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/121c83d3a009416f9fbd803810a7b610.png
+color - names.js: 164 dodgerblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/38eb722c130e81e9657d7833158b1ae0.png
+color - names.js: 164 brown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/ea2ab03bd4954ab4804d53adb5a9c490.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/5fb216fe4d3b4815b438db8e72978769.png
+color - names.js: 164 palevioletred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/e976108f03d74924bf65312b9f1f8aae.png
+color - names.js: 164 skyblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/514ee2ab45cb48b796416288a8633c10.png
+color - names.js: 164 tan
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/78d2885dc7414145ae40d435fc7cfc5b.png
+color - names.js: 164 royalblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/099f96beb7f143798c8546ebada70d75.png
+color - names.js: 164 darkslateblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/971dd20026a04a50b34aa9950a2d2393.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/6016c9614463408a9108f80d66051dc0.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/2fcf51cb26ca4356aee69ac83aa420a9.png
+color - names.js: 164 chocolate
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/450be63a8bbd4348b9eb33a64b6dc094.png
+color - names.js: 164 darkcyan
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/c59aa01ae56546609a788657b22f3019.png
+color - names.js: 164 steelblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/cf587097b1f84ac5b534bcb946a0e82a.png
+color - names.js: 164 sienna
+
+https://lastfm-img2.akamaized.net/i/u/174s/120386f2880f47dfc71873cda716683c.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/b88fe3c4587d4e2ebe7db8e1fd5d729e.png
+color - names.js: 164 mediumseagreen
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/a61731a385b84542ab25352f7ea3f9ca.png
+color - names.js: 164 gold
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/f01af5afa421499ec9601452d5b24346.png
+color - names.js: 164 darkkhaki
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/832376bb4bd446bb89febcd516435526.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/3332579cb2ba25a3815ee5f61a71fbfb.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/44210253d8fd4a539cc2b97e512dffd9.png
+color - names.js: 164 dodgerblue
+
+https://lastfm-img2.akamaized.net/i/u/174s/fef975b2cf4c416eadee5f765f49ec34.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/b04ec9a5556545f58dea24f0e4bf4e33.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/eaa3608c183f4013c07256ae741991e1.png
+color - names.js: 164 orange
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/80f256e56b1043cdbb99da3ac4dd69a0.png
+color - names.js: 164 brown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/36a064d8029e4b9c9d52c07961fbeed2.png
+color - names.js: 164 brown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/392b63c9408c4d25cd53f0dbc987d29d.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/292de04a25ad411da4fbe6b215ba3788.png
+color - names.js: 164 orange
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/13e29706c9494c0b89b9e9f4c13ed30f.png
+color - names.js: 164 sandybrown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/48b0767bdf5542d784f1b2a15b3cab69.png
+color - names.js: 164 coral
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/ab32b2f22de04488b5448c7f340f5ec7.png
+color - names.js: 164 salmon
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/8c9717ab162e472a835b2c1f4b15d288.png
+color - names.js: 164 lightseagreen
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/82adfab658033ccced9d50c7b51247cd.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/67b8d1f1b3fa4a81899759e6ce36914d.png
+color - names.js: 164 chocolate
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/996a3f46b6494165b4cec60776509d15.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/ae910fd7575f048290c0d1760c4de50d.png
+color - names.js: 164 palevioletred
+
+https://lastfm-img2.akamaized.net/i/u/174s/902d668d4269787eb9f4e708530cfc0a.png
+color - names.js: 164 gold
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/37f2bdb5606fadef1955339dac88af98.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/7f1ad2ef153d4280c21cebdf62f9e04f.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/17afeed886cd4df7b0137ef51ced4679.png
+color - names.js: 164 brown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/3bc0ff68aeb8414897e6f0d13908fdd8.png
+color - names.js: 164 darkslateblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/4884fbb2a3714e42cef5a1782e10c26e.png
+color - names.js: 164 orange
+
+https://lastfm-img2.akamaized.net/i/u/174s/6b524dcef88b2d46af9b3b611df7057b.png
+color - names.js: 164 royalblue
+
+https://lastfm-img2.akamaized.net/i/u/174s/23b5957305a44240c23529cd5d68e7f7.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/5d838b6c6bea2514a6408ac0fec030a4.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/b8a67a690bfc441980376d9147f28202.png
+color - names.js: 164 chocolate
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/ff4d87fef6994cb397f7f8cd98614170.png
+color - names.js: 164 yellowgreen
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/258aca0f00c342ce97469832f4310c35.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/1b4a4259c2b94c3eba124c5322eb9f3c.png
+color - names.js: 164 dodgerblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/a8f24fb75a674f22bed307d5c901d4e2.png
+color - names.js: 164 goldenrod
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/b473907e4ac045b58425819d32c1dc4d.png
+color - names.js: 164 orange
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/abc7c1f027a4128b69487cca3be4b136.png
+color - names.js: 164 chocolate
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/8b8a41dbb4ca4904c91dc606da1cf6c9.png
+color - names.js: 164 red
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/696d1b64cd9d44bf85aad10df414e959.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/28583e99d38a4368c3d77e208f66e093.png
+color - names.js: 164 indianred
+
+https://lastfm-img2.akamaized.net/i/u/174s/b61c126ba5524770c7ef23251b09f349.png
+color - names.js: 164 tomato
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/77001773b0ac48f5c80ea3cb038ea7be.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/dbe186229f51e82c57dd49603ec24828.png
+color - names.js: 164 black
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/a5f903aa57894a7d99f5893d055a93d6.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/2d15b808e4cc4142c14c1e8afd92e6e4.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/69ca11c7f9235cb2e31a030cf5efca98.png
+color - names.js: 164 indianred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/4545d95c53c547fcc74a76fc810eff7b.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/34f855ff5f771a459e5e63d9a3220088.png
+color - names.js: 164 brown
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/d60564db1b3331ba3884257097251e71.png
+color - names.js: 164 firebrick
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/3aea6ed8d7bf66df4e55f8f165fcfb8e.png
+color - names.js: 164 yellowgreen
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/a171a9db25b74c2ccce0e805a11bf0b7.png
+color - names.js: 164 goldenrod
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/c1db79bd43e740938577cc44ccff3084.png
+color - names.js: 164 peru
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/8f643559a13f497993ed9f608ca72b4b.png
+color - names.js: 164 tomato
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/82205fa56e3a405b98172058b39924fc.png
+color - names.js: 164 orange
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/3d123235eda24378ac7b74c3adddc1a3.png
+color - names.js: 164 deepskyblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/ca27a593085548448d94d92b89ff1b59.png
+color - names.js: 164 orangered
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/e72570dc8184472bc752c15e9324f4df.png
+color - names.js: 164 darkolivegreen
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/7d0d95d459ba4a59bb3b4990be631df7.png
+color - names.js: 164 gold
+
+https://lastfm-img2.akamaized.net/i/u/174s/06b0be7da7ec45b5b2c0d20db658ace3.png
+color - names.js: 164 lightcoral
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/9a7f4d6c5e3643cc73a9ac596d69cf81.png
+color - names.js: 164 tomato
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/3c2195ff3c3efc264bbb034f3f48efa0.png
+color - names.js: 164 orangered
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/8176bcb3f5f740c2904d9e0e4bab1289.png
+color - names.js: 164 orangered
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/1a1fcb6a65d14aeb9c1c57b1dc9c6103.png
+color - names.js: 164 chocolate
+
+https://lastfm-img2.akamaized.net/i/u/174s/b18db28b66774101ba49b77abde036bb.png
+color - names.js: 164 mediumvioletred
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/2ce3e13db3f0b88c22b5576ea8c2495e.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/aa82a7fc274a72c93fa44d3d89c9dc04.png
+color - names.js: 164 crimson
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/7fc95d74e9ad4ecdb83955c1af84f2de.png
+color - names.js: 164 mediumblue
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/ff31cfec21ac6081f67acdd9d8c41c4b.png
+color - names.js: 164 darkturquoise
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/8fdcae3f09f683c85405425c46daea3f.png
+color - names.js: 164 mediumseagreen
+TopAlbums.js: 34 https://lastfm-img2.akamaized.net/i/u/174s/e7b1d6638f5f0649262edb1e8b1323f0.png
+color - names.js: 164 black
