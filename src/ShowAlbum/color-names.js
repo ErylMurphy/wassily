@@ -1,5 +1,5 @@
-export default {
-  colors = [
+
+const colors = [
   {colorName: 'aliceblue', r: 240, g: 248, b: 255},
   {colorName: 'antiquewhite', r: 250, g: 235, b: 215},
   {colorName: 'aqua', r: 0, g: 255, b: 255},
@@ -149,14 +149,14 @@ export default {
   {colorName: 'yellow', r: 255, g: 255, b: 0},
   {colorName: 'yellowgreen', r: 154, g: 205, b: 50},
 ]
-}
+
 // const compcolor = { r: 239, g: 9, b: 110};
-function getClosest(compcolor, colors) {
+  function getClosest(compcolor, colors) {
   let actualColorValDiff;
   let allDiffs = [];
   for (let i = 0; i < colors.length; i++) {
-   actualColorValDiff = Math.abs(compcolor.r - colors[i].r) + Math.abs(compcolor.g - colors[i].g) + Math.abs(compcolor.b - colors[i].b)
-   allDiffs.push(actualColorValDiff);
+    actualColorValDiff = Math.abs(compcolor.r - colors[i].r) + Math.abs(compcolor.g - colors[i].g) + Math.abs(compcolor.b - colors[i].b)
+    allDiffs.push(actualColorValDiff);
   }
   let closestColor = Math.min(...allDiffs);
   const closestColorIndex = allDiffs.indexOf(closestColor);
@@ -164,8 +164,8 @@ function getClosest(compcolor, colors) {
   console.log(colorMatch);
 }
 
-getClosest({ r: 239, g: 9, b: 110 }, colors);
+// getClosest({ r: 239, g: 9, b: 110 }, colors);
 
-
+export { getClosest, colors }
 
 

@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Palette from "react-palette";
+import { getClosest, colors } from './color-names.js'
 
 class ShowAlbum extends Component {
   constructor(props) {
@@ -13,20 +14,17 @@ class ShowAlbum extends Component {
   
   getTheStyle() {
   const coloredButton = document.getElementById('coloredhead');
-  console.log(coloredButton);
   const style = window.getComputedStyle(coloredButton, null).getPropertyValue("color");
   document.getElementById('output').innerHTML = style;
   let rgb = style;
   rgb = rgb.replace(/[^\d,]/g, '').split(',');
-  const rgbObject = {
+  const compcolor = {
     r: parseInt(rgb[0]),
     g: parseInt(rgb[1]),
-    b: parseInt(rgb[2]),
-    
+    b: parseInt(rgb[2]), 
   }
-  console.log(rgbObject)
+getClosest(compcolor, colors);
 }
-
 
 
 
