@@ -48,7 +48,6 @@ class TopAlbums extends Component {
       method: 'GET'
     }).then(response => response.json())
       .then(json => {
-        console.log(json)
         const albums = json.topalbums['album'];
         this.setState({
           albums: albums,
