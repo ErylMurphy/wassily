@@ -1,9 +1,13 @@
 const db = require("../database/connection");
 
-const Compalbum = {};
+const CompAlbum = {};
 
-Compalbum.allOfColor = () => {
+CompAlbum.allOfColor = () => {
   return db.any(`SELECT * FROM compalbums WHERE color_name = ${color_name}`);
 };
 
-module.exports = Compalbum;
+CompAlbum.all = () => {
+  return db.any(`SELECT * FROM compalbums`);
+}
+
+module.exports = CompAlbum;

@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const Compalbum = require('./models/Compalbum');
+const CompAlbum = require('./models/Compalbum');
 const bodyParser = require("body-parser");
 app.use(bodyParser.urlencoded({
   extended: true
@@ -23,19 +23,27 @@ const session = require("express-session");
 //   console.log(color) // ['91', '108', '110']
 // })
 
-const PORT = process.env.PORT || 4567;
+const PORT = process.env.PORT || 3001;
 
 
 app.get("/", (request, response) => {
   response.send(`hello world`);
 });
 
+// app.get('/compalbums.json', (request, response) => {
+//   Compalbum.allOfColor()
+//   .then(compalbums => {
+//     console.log(compalbums)
+//     response.json(compalbums)
+//   });
+// });
+
 app.get('/compalbums.json', (request, response) => {
-  Compalbum.allOfColor()
-  .then(compalbums => {
-    console.log(compalbums)
-    response.json(compalbums)
-  });
+  CompAlbum.all()
+    .then(compalbums => {
+      console.log(compalbums)
+      response.json(compalbums)
+    });
 });
 
 app.listen(PORT, () => {
