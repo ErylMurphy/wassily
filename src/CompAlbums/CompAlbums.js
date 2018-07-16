@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-
+import compalbums from '..data/compalbumcolors'
 
 class CompAlbums extends Component {
   constructor(props) {
@@ -10,21 +10,7 @@ class CompAlbums extends Component {
       album_image: ''
     }
   }
-  componentDidMount() {
-    let id = this.props.id;
-    let color_name = this.props.color_name;
-    console.log(color_name)
-    fetch(`/compalbums/${color_name}.json`, {
-      method: 'GET'
-    })
-    .then(response => response.json())
-    .then(compalbums => {
-      console.log(compalbums)
-      this.setState({
-        compalbums: compalbums
-      })
-    })
-  }
+
   render() {
     return (
 

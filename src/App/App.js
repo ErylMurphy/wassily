@@ -3,7 +3,7 @@ import './App.css';
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer.js'
 import TopAlbums from '../TopAlbums/TopAlbums';
-import AllComps from '../AllComps/AllComps';
+// import AllComps from '../AllComps/AllComps';
 // import CompAlbums from '../CompAlbums/CompAlbums';
 // import Home from '../Home/Home';
 // import ShowAlbum from '../ShowAlbum/ShowAlbum';
@@ -17,7 +17,7 @@ render() {
   <Header />
   {/* <Home /> */}
   <TopAlbums />
-  <AllComps />
+  {/* <AllComps /> */}
   {/* <CompAlbums /> */}
   <Footer />
   </div>
