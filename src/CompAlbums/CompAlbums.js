@@ -1,27 +1,28 @@
 import React, { Component } from "react";
-import compalbums from '..data/compalbumcolors'
+import compalbumcolors from '../data/compalbumcolors.json';
+import ShowAlbum from '../ShowAlbum/ShowAlbum';
+
+//make an if statement for the json
 
 class CompAlbums extends Component {
   constructor(props) {
-    super(props);
+    super(props)
     this.state = {
-      id: 0,
-      color_name: '',
-      album_image: ''
+        albumimage: null,
     }
   }
-
   render() {
+    const { colorname } = this.props;
     return (
-
-      <div className="compalbums">
-        <div className="compImage">
-          <img src={this.props.album_image} />
-        </div>
-        <div className="colorname">
-          <p>{this.props.color_name}</p>
-        </div>
-      </div>
+     <ul>
+      {
+        compalbumcolors.map((compcolors) => {
+          if (compcolors.color_name === colorname) {
+          return <img src={compcolors.album_image} />
+          }
+        })
+      }
+      </ul>
     );
   }
 }

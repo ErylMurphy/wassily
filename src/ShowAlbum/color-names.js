@@ -150,7 +150,6 @@ const colors = [
   {colorName: 'yellowgreen', r: 154, g: 205, b: 50},
 ]
 
-// const compcolor = { r: 239, g: 9, b: 110};
   function getClosest(compcolor, colors) {
   let actualColorValDiff;
   let allDiffs = [];
@@ -161,10 +160,9 @@ const colors = [
   let closestColor = Math.min(...allDiffs);
   const closestColorIndex = allDiffs.indexOf(closestColor);
   const colorMatch = colors[closestColorIndex].colorName;
-  console.log(colorMatch);
+  return colorMatch;
 }
 
-// getClosest({ r: 239, g: 9, b: 110 }, colors);
 
 export { getClosest, colors }
 

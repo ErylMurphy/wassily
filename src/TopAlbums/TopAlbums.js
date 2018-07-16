@@ -62,7 +62,7 @@ class TopAlbums extends Component {
           <div className="topalbums">
             <div>
             </div>
-            <div>{TopAlbums && <ShowAlbum albumImage={this.state.albumImage} />}</div>
+            <div>{this.state.albumImage && <ShowAlbum albumImage={this.state.albumImage} />}</div>
             <ul onClick={this.toggleHidden.bind(this)}>
               {
                 this.state.albums.map(function (album, index) {
