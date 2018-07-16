@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import './TopAlbums.css';
 import ShowAlbum from '../ShowAlbum/ShowAlbum';
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
 class TopAlbums extends Component {
   constructor(props) {
