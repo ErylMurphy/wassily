@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import './TopAlbums.css';
 import ShowAlbum from '../ShowAlbum/ShowAlbum';
 
 
