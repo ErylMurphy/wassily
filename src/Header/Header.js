@@ -9,7 +9,7 @@ refreshPage() {
     return (
       <div className="header">
         <div>
-          <header>Wassily</header>
+          <h1>Wassily</h1>
           <Router>
           <nav><Link to="/" onClick={() => { this.refreshPage() }}>Home</Link></nav>
           </Router>

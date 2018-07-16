@@ -124,7 +124,7 @@ const colors = [
   {colorName: 'rosybrown', r: 188, g: 143, b: 143},
   {colorName: 'royalblue', r: 65, g: 105, b: 225},
   {colorName: 'saddlebrown', r: 139, g: 69, b: 19},
-  {colorName: 'salmon', r: 250, g: 128, b: 114},
+  // {colorName: 'salmon', r: 250, g: 128, b: 114},
   {colorName: 'sandybrown', r: 244, g: 164, b: 96},
   {colorName: 'seagreen', r: 46, g: 139, b: 87},
   {colorName: 'seashell', r: 255, g: 245, b: 238},

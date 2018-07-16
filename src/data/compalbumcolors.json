@@ -1705,7 +1705,7 @@
   },
   {
     "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/53442bc27a314142a02d2df018b4161e.png",
-    "color_name": "salmon"
+    "color_name": "lightcoral"
   },
   {
     "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/54887f4b1cf936f2205bdf06693c1780.png",
@@ -4110,5 +4110,29 @@
   {
     "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/3d498c9a33bd410dc116c75c1251ce81.png",
     "color_name": "darkslategray"
+  },
+  {
+    "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/573899052466479da97b9207a780d06f.png",
+    "color_name": "black"
+  },
+  {
+    "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/4cebe9d93d5c6adca667e396cfc04433.png",
+    "color_name": "lightcoral"
+  },
+  {
+    "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/c937c1e960444358c33b773ed36e5337.png",
+    "color_name": "indianred"
+  },
+  {
+    "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/d7365f9569724584c5f35bc39ac0a3ab.png",
+    "color_name": "indianred"
+  },
+  {
+    "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/41602e66d9414a65ca2328f5ee73beb5.png",
+    "color_name": "palevioletred"
+  },
+  {
+    "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/ae44eda2285640301a29648ac693036e.png",
+    "color_name": "indianred"
   }
 ]
