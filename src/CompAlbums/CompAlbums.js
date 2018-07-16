@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import compalbumcolors from '../data/compalbumcolors.json';
-import ShowAlbum from '../ShowAlbum/ShowAlbum';
 
 //make an if statement for the json
 
