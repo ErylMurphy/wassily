@@ -2,6 +2,8 @@
 
 Wassily is a React app that utilizes the Last.fm API. On the homepage, the user searches for an artist. They are then taken to a page where the specified artist's albums are displayed. From there, they can generate a selection of various artists' album covers that share a similar palette. Wassily was named for Wassily Kandinsky, the Russian Expressionist and noted synesthete. Synesthesia is the phenomenon in which one sense triggers another. Chromesthesia, a form of synesthesia, is the association of sounds with colors.
 
+![Imgur Image](https://imgur.com/LZo0mqe.jpg)
+
 ## User stories:
 As an artist, I want to see famous albums’ cover art grouped by color, so that I can make comparisons  to my own.
 
@@ -15,7 +17,6 @@ Home:
 Album Display:
 
 ![Imgur Image](https://imgur.com/0Ze8BWu.jpg)
-
 
 ## Tech:
  - Built with React.js. 
