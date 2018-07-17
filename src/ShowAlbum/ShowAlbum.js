@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Palette from "react-palette";
 import { getClosest, colors } from './color-names.js';
 import CompAlbums from '../CompAlbums/CompAlbums';
+import './ShowAlbum.css';
 
 
 class ShowAlbum extends Component {
@@ -35,22 +36,20 @@ class ShowAlbum extends Component {
   render() {
     return (
       <div className="show-album">
-        <div>
-          <Palette image={this.props.albumImage}>
-            {palette => (
-              <div style={{ color: palette.vibrant }}>
-                <button style={{ backgroundColor: palette.vibrant }} id="output" onClick={this.getTheStyle}>See Similar Albums</button>
-                <img id="coloredhead" src={this.props.albumImage} />
-              </div>
-            )}
-          </Palette>
           {this.state.colorname && (
             <div className="show-comps">
               <CompAlbums colorname={this.state.colorname} />
             </div>
           )}
+          <Palette image={this.props.albumImage}>
+            {palette => (
+              <div style={{ color: palette.vibrant }}>
+                <img id="coloredhead" src={this.props.albumImage} />
+                <button style={{ backgroundColor: palette.vibrant }} id="output" onClick={this.getTheStyle}>View Comps</button>
+              </div>
+            )}
+          </Palette>
         </div>
-      </div>
     )
   }
 }

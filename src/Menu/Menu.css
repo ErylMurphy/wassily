@@ -1,8 +1,9 @@
 li {
-  text-decoration: none;
+  /* list-style: none; */
+  display: block;
   color: #232323;
   transition: color 0.3s ease;
-  display: block;
+  text-decoration: none;
 }
 
 li:hover {
@@ -20,7 +21,7 @@ li:hover {
 }
 
 #menuToggle input {
-  display: block;
+  text-decoration: none;
   width: 40px;
   height: 32px;
   position: absolute;
@@ -80,14 +81,20 @@ li:hover {
   transform-origin: 0% 0%;
   transform: translate(-100%, 0);
   transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0);
+  text-decoration: none;
+}
+
+#menu {
+  display: block;
 }
 
 #menu li {
+  display: block;
   padding: 10px 0;
   font-size: 22px;
+  text-decoration: none;
 }
 
 #menuToggle input:checked~ul {
   transform: none;
 }
-  

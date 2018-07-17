@@ -13,6 +13,8 @@ class CompAlbums extends Component {
   render() {
     const { colorname } = this.props;
     return (
+      <div className="compimages">
+      <h1>COMPS</h1>
      <ul>
       {
         compalbumcolors.map((compcolors) => {
@@ -22,6 +24,7 @@ class CompAlbums extends Component {
         })
       }
       </ul>
+      </div>
     );
   }
 }

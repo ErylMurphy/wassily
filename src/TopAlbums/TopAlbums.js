@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import ShowAlbum from '../ShowAlbum/ShowAlbum';
+import './TopAlbums.css';
 
 
 class TopAlbums extends Component {
