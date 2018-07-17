@@ -147,22 +147,21 @@ const colors = [
   {colorName: 'white', r: 255, g: 255, b: 255},
   {colorName: 'whitesmoke', r: 245, g: 245, b: 245},
   {colorName: 'yellow', r: 255, g: 255, b: 0},
-  // {colorName: 'yellowgreen', r: 154, g: 205, b: 50},
+  {colorName: 'yellowgreen', r: 154, g: 205, b: 50},
 ]
 
-  function getClosest(compcolor, colors) {
-  let actualColorValDiff;
-  let allDiffs = [];
-  for (let i = 0; i < colors.length; i++) {
-    actualColorValDiff = Math.abs(compcolor.r - colors[i].r) + Math.abs(compcolor.g - colors[i].g) + Math.abs(compcolor.b - colors[i].b)
-    allDiffs.push(actualColorValDiff);
-  }
-  let closestColor = Math.min(...allDiffs);
-  const closestColorIndex = allDiffs.indexOf(closestColor);
-  const colorMatch = colors[closestColorIndex].colorName;
-  return colorMatch;
+function getClosest(compcolor, colors) {
+let actualColorValDiff;
+let allDiffs = [];
+for (let i = 0; i < colors.length; i++) {
+    actualColorValDiff = Math.abs(compcolor.r - colors[i].r) + Math.abs(compcolor.g -colors[i].g) + Math.abs(compcolor.b - colors[i].b)
+  allDiffs.push(actualColorValDiff);
 }
-
+let closestColor = Math.min(...allDiffs);
+const closestColorIndex = allDiffs.indexOf(closestColor);
+const colorMatch = colors[closestColorIndex].colorName;
+return colorMatch;
+}
 
 export { getClosest, colors }
 

@@ -1,0 +1,10 @@
+#refresh {
+  margin-top: 15px;
+    border-radius: 0.12em;
+    text-decoration: none;
+    transition: all 0.2s;
+    Font-Family: 'Crimson Text', Serif;
+    font-size: 19px;
+    width: 300px;
+    height: 35px;
+  }
