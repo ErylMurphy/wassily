@@ -3,6 +3,7 @@ import './App.css';
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer.js'
 import TopAlbums from '../TopAlbums/TopAlbums';
+import Menu from '../Menu/Menu';
 
 
 class App extends Component {
@@ -11,6 +12,7 @@ render() {
   return (
   <div>
     <div className="headtop">
+  <Menu />
   <Header />
   <TopAlbums />
   </div>

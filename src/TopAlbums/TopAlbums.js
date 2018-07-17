@@ -56,7 +56,7 @@ class TopAlbums extends Component {
     return (
       <div className="body">
         <div className="search-bar">
-          <input type="text" className="form" placeholder="Enter Any Artist to See Albums" required onChange={event => this.setState({ query: event.target.value })} onKeyPress={event => { if (event.key === 'Enter') this.search() }} />
+          <input type="text" className="form" placeholder="Enter An Artist" required onChange={event => this.setState({ query: event.target.value })} onKeyPress={event => { if (event.key === 'Enter') this.search() }} />
         </div>
           <div className="topalbums">
             <div>
