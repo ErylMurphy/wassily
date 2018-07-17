@@ -4172,39 +4172,63 @@
     "color_name": "indianred"
   },
   {
+    "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/6db7462bc34348e797f12c338997d21d.png",
+    "color_name": "mediumorchid"
+  },
+  {
+    "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/ef4a37b1cb67442ca9f4c86d7e7c8c1f.png",
+    "color_name": "mediumturquoise"
+  },
+  {
+    "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/f5272ddd5b5a41f7bcadfeada9a681a1.png",
+    "color_name": "yellowgreen"
+  },
+  {
+    "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/ee4baa5ad85b4eb17a25245422c58d40.png",
+    "color_name": "chocolate"
+  },
+  {
+    "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/a2009cb0be8de19c236bbb6a0989cc7e.png",
+    "color_name": "deeppink"
+  },
+  {
+    "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/f7bb5a029f7d425cc2e1253bce0530ef.png",
+    "color_name": "darkkhaki"
+  },
+  {
+    "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/60e34acbdc85261c72ba7e059973c5dd.png",
+    "color_name": "deeppink"
+  },
+  {
+    "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/df0ed89c9c89359314c5d749a9e14e90.png",
+    "color_name": "crimson"
+  },
+  {
+    "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/3247baf7956f4dd7b587719e6d2ce483.png",
+    "color_name": "tomato"
+  },
+  {
+    "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/fa105a687685d57c38e0a749e75b74e6.png",
+    "color_name": "sandybrown"
+  },
+  {
+    "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/d3dd2fb6977e4f9aa08b691204e7b38b.png",
+    "color_name": "gold"
+  },
+  {
+    "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/764766953f4b4ed39d68f66216bf2c6d.png",
+    "color_name": "gold"
+  },
+  {
+    "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/982c23f78b7641918b14f86c9f60b614.png",
+    "color_name": "darkkhaki"
+  },
+  {
     "album_image": "https://lastfm-img2.akamaized.net/i/u/174s/7f07be163c6d4ce39bf8ac457e50f901.png",
     "color_name": "skyblue"
   }
 ]
 
-// https: //lastfm-img2.akamaized.net/i/u/174s/6db7462bc34348e797f12c338997d21d.png
-// ShowAlbum.js: 34 mediumorchid
-https: //lastfm-img2.akamaized.net/i/u/174s/ef4a37b1cb67442ca9f4c86d7e7c8c1f.png
-ShowAlbum.js: 34 mediumturquoise
 
-https: //lastfm-img2.akamaized.net/i/u/174s/f5272ddd5b5a41f7bcadfeada9a681a1.png
-ShowAlbum.js: 34 yellowgreen
 
-https: //lastfm-img2.akamaized.net/i/u/174s/09e1bd452520b1ec9641b80d6c9c55a9.png
-ShowAlbum.js: 34 rosybrown
 
-https: //lastfm-img2.akamaized.net/i/u/174s/ee4baa5ad85b4eb17a25245422c58d40.png
-ShowAlbum.js: 34 chocolate
-https: //lastfm-img2.akamaized.net/i/u/174s/a2009cb0be8de19c236bbb6a0989cc7e.png
-ShowAlbum.js: 34 deeppink
-https: //lastfm-img2.akamaized.net/i/u/174s/f7bb5a029f7d425cc2e1253bce0530ef.png
-ShowAlbum.js: 34 darkkhaki
-https: //lastfm-img2.akamaized.net/i/u/174s/60e34acbdc85261c72ba7e059973c5dd.png
-ShowAlbum.js: 34 deeppink
-https: //lastfm-img2.akamaized.net/i/u/174s/df0ed89c9c89359314c5d749a9e14e90.png
-ShowAlbum.js: 34 crimson
-https: //lastfm-img2.akamaized.net/i/u/174s/3247baf7956f4dd7b587719e6d2ce483.png
-ShowAlbum.js: 34 tomato
-https: //lastfm-img2.akamaized.net/i/u/174s/fa105a687685d57c38e0a749e75b74e6.png
-ShowAlbum.js: 34 sandybrown
-https: //lastfm-img2.akamaized.net/i/u/174s/d3dd2fb6977e4f9aa08b691204e7b38b.png
-ShowAlbum.js: 34 gold
-https: //lastfm-img2.akamaized.net/i/u/174s/764766953f4b4ed39d68f66216bf2c6d.png
-ShowAlbum.js: 34 gold
-https: //lastfm-img2.akamaized.net/i/u/174s/982c23f78b7641918b14f86c9f60b614.png
-ShowAlbum.js: 34 darkkhaki
